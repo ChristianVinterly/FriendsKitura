@@ -1,5 +1,5 @@
 version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
 options: "ddb9c2376493298d33e9a2cae1ef799e"
-build_time: [539178353, 36332000]
+build_time: [539179363, 400662000]
 inputs:
-  "/Users/christianlysne/Development/FriendsKitura/Sources/main.swift": [539178327, 0]
+  "/Users/christianlysne/Development/FriendsKitura/Sources/main.swift": [539179358, 0]

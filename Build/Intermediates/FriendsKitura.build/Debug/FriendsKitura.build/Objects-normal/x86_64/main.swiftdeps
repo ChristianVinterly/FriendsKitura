@@ -2,25 +2,20 @@
 provides-top-level:
 - "router"
 - "port"
-- "defaultPort"
 provides-nominal:
 provides-member:
 provides-dynamic-lookup:
 depends-top-level:
 - "HeliumLogger"
-- "port"
-- "Router"
-- "Kitura"
-- "defaultPort"
 - "ProcessInfo"
 - "StringLiteralType"
-- "router"
-- "AssignmentPrecedence"
-- "??"
-- "UnicodeScalarType"
-- "IntegerLiteralType"
 - "Int"
-- "FloatLiteralType"
+- "Router"
+- "Kitura"
+- "router"
+- "UnicodeScalarType"
+- "??"
+- "port"
 depends-member:
 - ["Ps9AnyObject", "addHTTPServer"]
 - ["Ps9AnyObject", "environment"]
@@ -251,4 +246,4 @@ depends-external:
 - "/Users/christianlysne/Development/FriendsKitura/Build/Products/Debug/KituraTemplateEngine.framework/Modules/KituraTemplateEngine.swiftmodule/x86_64.swiftmodule"
 - "/Users/christianlysne/Development/FriendsKitura/Build/Products/Debug/SwiftyJSON.framework/Modules/SwiftyJSON.swiftmodule/x86_64.swiftmodule"
 - "/Users/christianlysne/Development/FriendsKitura/Build/Products/Debug/HeliumLogger.framework/Modules/HeliumLogger.swiftmodule/x86_64.swiftmodule"
-interface-hash: "924cba92db524a192cc61ebcc47a4a0a"
+interface-hash: "be9c4f10a72732822907dd5b83c51b22"

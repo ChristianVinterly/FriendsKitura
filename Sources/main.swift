@@ -10,13 +10,7 @@ router.get("/") { request, response, next in
     next()
 }
 
-let port: Int
-let defaultPort = 8080
-if let requestedPort = ProcessInfo.processInfo.environment["PORT"] {
-    port = Int(requestedPort) ?? defaultPort
-} else {
-    port = defaultPort
-}
+let port = Int(ProcessInfo.processInfo.environment["PORT"] ?? "8090") ?? 8090
 
 Kitura.addHTTPServer(onPort: port, with: router)
 Kitura.run()
