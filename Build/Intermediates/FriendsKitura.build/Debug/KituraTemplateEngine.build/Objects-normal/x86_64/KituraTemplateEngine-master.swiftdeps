@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "da20c7b2aa1a12bef5b2cd18fa826c46"
+build_time: [539178266, 956571000]
+inputs:
+  "/Users/christianlysne/Development/FriendsKitura/Packages/Kitura-TemplateEngine-1.6.0/Sources/KituraTemplateEngine/TemplateEngine.swift": [539178234, 0]

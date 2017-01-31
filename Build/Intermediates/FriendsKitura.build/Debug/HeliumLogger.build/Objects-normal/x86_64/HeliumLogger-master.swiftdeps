@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "6af9907ba45be997d8e2a837a94aea85"
+build_time: [539178329, 168538000]
+inputs:
+  "/Users/christianlysne/Development/FriendsKitura/Packages/HeliumLogger-1.6.0/Sources/HeliumLogger/HeliumLogger.swift": [539178236, 0]
+  "/Users/christianlysne/Development/FriendsKitura/Packages/HeliumLogger-1.6.0/Sources/HeliumLogger/HeliumStreamLogger.swift": [539178236, 0]

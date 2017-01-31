@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "f1e5f5633d6dd3942753e5162c5bd16b"
+build_time: [539178265, 185115000]
+inputs:
+  "/Users/christianlysne/Development/FriendsKitura/Packages/LoggerAPI-1.6.0/Sources/LoggerAPI/Logger.swift": [539178222, 0]

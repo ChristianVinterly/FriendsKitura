@@ -1,0 +1,59 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ServerRequest"
+provides-nominal:
+- "P9KituraNet13ServerRequest"
+provides-member:
+- ["P9KituraNet13ServerRequest", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "Int"
+- "URLComponents"
+- "String"
+- "Data"
+- "URL"
+- "HeadersContainer"
+- "UInt16"
+- "ServerRequest"
+depends-member:
+- ["P9KituraNet13ServerRequest", "Data"]
+- ["P9KituraNet13ServerRequest", "HeadersContainer"]
+- ["P9KituraNet13ServerRequest", "Int"]
+- ["P9KituraNet13ServerRequest", "String"]
+- ["P9KituraNet13ServerRequest", "UInt16"]
+- ["P9KituraNet13ServerRequest", "URL"]
+- ["P9KituraNet13ServerRequest", "URLComponents"]
+- ["P9KituraNet13ServerRequest", "headers"]
+- ["P9KituraNet13ServerRequest", "httpVersionMajor"]
+- ["P9KituraNet13ServerRequest", "httpVersionMinor"]
+- ["P9KituraNet13ServerRequest", "method"]
+- ["P9KituraNet13ServerRequest", "read"]
+- ["P9KituraNet13ServerRequest", "readAllData"]
+- ["P9KituraNet13ServerRequest", "readString"]
+- ["P9KituraNet13ServerRequest", "remoteAddress"]
+- ["P9KituraNet13ServerRequest", "url"]
+- ["P9KituraNet13ServerRequest", "urlComponents"]
+- ["P9KituraNet13ServerRequest", "urlString"]
+- ["P9KituraNet13ServerRequest", "urlURL"]
+- ["P9KituraNet13ServerRequest", ""]
+depends-nominal:
+- "P9KituraNet13ServerRequest"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Users/christianlysne/Development/FriendsKitura/Build/Products/Debug/LoggerAPI.framework/Modules/LoggerAPI.swiftmodule/x86_64.swiftmodule"
+- "/Users/christianlysne/Development/FriendsKitura/Packages/Kitura-net-1.6.0/Sources/CHTTPParser/include/module.modulemap"
+- "/Users/christianlysne/Development/FriendsKitura/Build/Products/Debug/Socket.framework/Modules/Socket.swiftmodule/x86_64.swiftmodule"
+- "/Users/christianlysne/Development/FriendsKitura/Build/Products/Debug/SSLService.framework/Modules/SSLService.swiftmodule/x86_64.swiftmodule"
+- "Packages/Kitura-net-1.6.0/Sources/CHTTPParser/include/utils.h"
+- "/Users/christianlysne/Development/FriendsKitura/Packages/CCurl-0.2.3/module.modulemap"
+- "Packages/Kitura-net-1.6.0/Sources/CHTTPParser/include/http_parser.h"
+- "Packages/Kitura-net-1.6.0/Sources/CHTTPParser/include/module.modulemap"
+interface-hash: "c41335e8f3cce5e687c088beba230d6b"

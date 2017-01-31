@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "8900b6f54081d26c2d89e7d9050cacc3"
+build_time: [539178330, 982583000]
+inputs:
+  "/Users/christianlysne/Development/FriendsKitura/Packages/SSLService-0.12.20/Sources/SSLService.swift": [539178229, 0]

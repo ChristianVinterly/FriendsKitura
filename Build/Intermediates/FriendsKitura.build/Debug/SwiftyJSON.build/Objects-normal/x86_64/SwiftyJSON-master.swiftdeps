@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "3ca773c04cbe9528f51b77eb15620a3b"
+build_time: [539178262, 748787000]
+inputs:
+  "/Users/christianlysne/Development/FriendsKitura/Packages/SwiftyJSON-15.0.5/Source/LclJSONSerialization.swift": [539178231, 0]
+  "/Users/christianlysne/Development/FriendsKitura/Packages/SwiftyJSON-15.0.5/Source/SwiftyJSON.swift": [539178231, 0]

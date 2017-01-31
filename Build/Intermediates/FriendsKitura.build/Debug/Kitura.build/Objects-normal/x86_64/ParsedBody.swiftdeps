@@ -1,0 +1,63 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ParsedBody"
+provides-nominal:
+- "O6Kitura10ParsedBody"
+provides-member:
+- ["O6Kitura10ParsedBody", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "String"
+- "Data"
+- "JSON"
+- "Part"
+- "ParsedBody"
+depends-member:
+- ["Sa", "deinit"]
+- ["Vs10Dictionary", "deinit"]
+- ["V10SwiftyJSON4JSON", "deinit"]
+- ["Sq", "deinit"]
+- ["O6Kitura10ParsedBody", "Data"]
+- ["O6Kitura10ParsedBody", "JSON"]
+- ["O6Kitura10ParsedBody", "Part"]
+- ["O6Kitura10ParsedBody", "String"]
+- ["O6Kitura10ParsedBody", "asJSON"]
+- ["O6Kitura10ParsedBody", "asMultiPart"]
+- ["O6Kitura10ParsedBody", "asText"]
+- ["O6Kitura10ParsedBody", "asURLEncoded"]
+- ["O6Kitura10ParsedBody", "deinit"]
+- ["O6Kitura10ParsedBody", "json"]
+- ["O6Kitura10ParsedBody", "multipart"]
+- ["O6Kitura10ParsedBody", "raw"]
+- ["O6Kitura10ParsedBody", "text"]
+- ["O6Kitura10ParsedBody", "urlEncoded"]
+- ["SS", "deinit"]
+depends-nominal:
+- "Sa"
+- "Vs10Dictionary"
+- "V10SwiftyJSON4JSON"
+- "Sq"
+- "O6Kitura10ParsedBody"
+- "SS"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Users/christianlysne/Development/FriendsKitura/Build/Products/Debug/LoggerAPI.framework/Modules/LoggerAPI.swiftmodule/x86_64.swiftmodule"
+- "/Users/christianlysne/Development/FriendsKitura/Build/Products/Debug/KituraNet.framework/Modules/KituraNet.swiftmodule/x86_64.swiftmodule"
+- "/Users/christianlysne/Development/FriendsKitura/Packages/Kitura-net-1.6.0/Sources/CHTTPParser/include/module.modulemap"
+- "Packages/Kitura-net-1.6.0/Sources/CHTTPParser/include/utils.h"
+- "/Users/christianlysne/Development/FriendsKitura/Packages/CCurl-0.2.3/module.modulemap"
+- "Packages/Kitura-net-1.6.0/Sources/CHTTPParser/include/http_parser.h"
+- "Packages/Kitura-net-1.6.0/Sources/CHTTPParser/include/module.modulemap"
+- "/Users/christianlysne/Development/FriendsKitura/Build/Products/Debug/SSLService.framework/Modules/SSLService.swiftmodule/x86_64.swiftmodule"
+- "/Users/christianlysne/Development/FriendsKitura/Build/Products/Debug/Socket.framework/Modules/Socket.swiftmodule/x86_64.swiftmodule"
+- "/Users/christianlysne/Development/FriendsKitura/Build/Products/Debug/KituraTemplateEngine.framework/Modules/KituraTemplateEngine.swiftmodule/x86_64.swiftmodule"
+- "/Users/christianlysne/Development/FriendsKitura/Build/Products/Debug/SwiftyJSON.framework/Modules/SwiftyJSON.swiftmodule/x86_64.swiftmodule"
+interface-hash: "5d53dbea8b6ded2e9fafacb82cf9707d"
