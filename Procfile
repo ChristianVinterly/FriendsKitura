@@ -1,1 +1,1 @@
-web: .build/release/FriendsKitura 
+web: .build/debug/FriendsKitura 
